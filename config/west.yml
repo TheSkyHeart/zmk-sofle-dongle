@@ -9,7 +9,7 @@ manifest:
     - name: englmaxi
       url-base: https://github.com/englmaxi
   projects:
-    - name: mario-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
       revision: main 
     - name: zmk
